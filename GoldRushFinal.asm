@@ -1,5 +1,3 @@
-#Brittney Scheven
-#Gold rush final project
 
 .intel_syntax noprefix
 .data
